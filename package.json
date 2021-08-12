@@ -1,7 +1,6 @@
 {
   "name": "3j_pam2_2021",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "npm i -gf nodemon @angular/core @angular/cli && ng version",
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/profdanilominas/3j_pam2_2021/issues"
   },
-  "homepage": "https://github.com/profdanilominas/3j_pam2_2021#readme"
+  "homepage": "https://github.com/profdanilominas/3j_pam2_2021#readme",
+  "description": ""
 }
